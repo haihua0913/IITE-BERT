@@ -1,0 +1,132 @@
+Web of Science 类别	记录数	904,459的百分位
+Multidisciplinary Sciences	760838	84.121
+Geosciences Multidisciplinary	99697	11.023
+Environmental Sciences	78471	8.676
+Meteorology Atmospheric Sciences	39676	4.387
+Water Resources	31254	3.456
+Remote Sensing	26394	2.918
+Imaging Science Photographic Technology	26313	2.909
+Psychology Multidisciplinary	18567	2.053
+Mathematics Interdisciplinary Applications	17927	1.982
+Agriculture Multidisciplinary	14204	1.570
+Astronomy Astrophysics	12172	1.346
+Geography Physical	10134	1.120
+Social Sciences Biomedical	9784	1.082
+Social Sciences Interdisciplinary	8915	0.986
+Chemistry Multidisciplinary	8880	0.982
+Engineering Aerospace	8809	0.974
+Biology	8622	0.953
+Psychology	7058	0.780
+Veterinary Sciences	6116	0.676
+Ecology	5440	0.601
+Behavioral Sciences	5158	0.570
+Biotechnology Applied Microbiology	4690	0.519
+Neurosciences	4333	0.479
+Humanities Multidisciplinary	4192	0.463
+Public Environmental Occupational Health	4112	0.455
+Energy Fuels	3991	0.441
+Engineering Chemical	3991	0.441
+Health Policy Services	3935	0.435
+Respiratory System	3935	0.435
+Oncology	3564	0.394
+History Philosophy Of Science	3412	0.377
+Agriculture Dairy Animal Science	3025	0.334
+Plant Sciences	2696	0.298
+Materials Science Multidisciplinary	2088	0.231
+Engineering Multidisciplinary	2067	0.229
+Social Issues	1860	0.206
+Ethics	1826	0.202
+Nanoscience Nanotechnology	1713	0.189
+Management	1531	0.169
+Mathematics	1385	0.153
+Mathematical Computational Biology	1322	0.146
+Zoology	1295	0.143
+Limnology	1289	0.143
+Biochemistry Molecular Biology	1281	0.142
+Endocrinology Metabolism	1229	0.136
+Philosophy	1191	0.132
+Computer Science Interdisciplinary Applications	1146	0.127
+Oceanography	1111	0.123
+Immunology	1089	0.120
+Information Science Library Science	1075	0.119
+Genetics Heredity	1073	0.119
+Physics Fluids Plasmas	1065	0.118
+Environmental Studies	1064	0.118
+Engineering Industrial	1035	0.114
+Toxicology	946	0.105
+Anthropology	902	0.100
+Engineering Environmental	879	0.097
+Psychology Experimental	810	0.090
+Green Sustainable Science Technology	730	0.081
+Psychology Biological	723	0.080
+Physiology	705	0.078
+Cell Biology	671	0.074
+Education Scientific Disciplines	609	0.067
+Clinical Neurology	572	0.063
+Engineering Civil	553	0.061
+Hospitality Leisure Sport Tourism	533	0.059
+Sport Sciences	533	0.059
+Radiology Nuclear Medicine Medical Imaging	479	0.053
+Law	354	0.039
+Art	314	0.035
+Engineering Manufacturing	314	0.035
+History Of Social Sciences	305	0.034
+Computer Science Artificial Intelligence	301	0.033
+Archaeology	300	0.033
+Infectious Diseases	284	0.031
+Geriatrics Gerontology	282	0.031
+Medicine Research Experimental	275	0.030
+Pharmacology Pharmacy	221	0.024
+Biophysics	218	0.024
+Hematology	176	0.019
+Geochemistry Geophysics	167	0.018
+Obstetrics Gynecology	160	0.018
+Cultural Studies	152	0.017
+Microbiology	150	0.017
+Reproductive Biology	130	0.014
+Gastroenterology Hepatology	115	0.013
+Psychiatry	100	0.011
+Substance Abuse	100	0.011
+Chemistry Applied	99	0.011
+Orthopedics	99	0.011
+Medical Laboratory Technology	90	0.010
+Peripheral Vascular Disease	89	0.010
+Psychology Developmental	80	0.009
+Cardiac Cardiovascular Systems	77	0.009
+Ophthalmology	75	0.008
+Rheumatology	75	0.008
+Integrative Complementary Medicine	69	0.008
+Mechanics	68	0.008
+Food Science Technology	67	0.007
+Music	61	0.007
+Mycology	58	0.006
+Evolutionary Biology	55	0.006
+Psychology Social	54	0.006
+Marine Freshwater Biology	50	0.006
+Nutrition Dietetics	45	0.005
+Dentistry Oral Surgery Medicine	44	0.005
+Spectroscopy	43	0.005
+Neuroimaging	41	0.005
+Physics Multidisciplinary	40	0.004
+Andrology	38	0.004
+Physics Applied	38	0.004
+Pediatrics	36	0.004
+Pathology	35	0.004
+Biodiversity Conservation	34	0.004
+Criminology Penology	27	0.003
+Women S Studies	27	0.003
+Instruments Instrumentation	26	0.003
+Education Special	22	0.002
+Linguistics	22	0.002
+Biochemical Research Methods	21	0.002
+Ornithology	21	0.002
+Physics Mathematical	21	0.002
+Parasitology	20	0.002
+Nuclear Science Technology	15	0.002
+Chemistry Medicinal	14	0.002
+Statistics Probability	13	0.001
+Economics	11	0.001
+Virology	10	0.001
+Rehabilitation	3	0.000
+Primary Health Care	2	0.000
+Medicine General Internal	1	0.000

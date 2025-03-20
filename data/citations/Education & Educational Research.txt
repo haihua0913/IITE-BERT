@@ -1,0 +1,50 @@
+Web of Science 类别	记录数	184,419的百分位
+Education Educational Research	184419	100.000
+Linguistics	13753	7.457
+Education Scientific Disciplines	12294	6.666
+Psychology Educational	10610	5.753
+Language Linguistics	7587	4.114
+Public Environmental Occupational Health	7566	4.103
+Psychology Developmental	4136	2.243
+Computer Science Interdisciplinary Applications	3872	2.100
+Health Care Sciences Services	2635	1.429
+Economics	2571	1.394
+History Of Social Sciences	2355	1.277
+Sport Sciences	2322	1.259
+Sociology	1772	0.961
+Hospitality Leisure Sport Tourism	1633	0.885
+Social Sciences Interdisciplinary	1633	0.885
+Urban Studies	1578	0.856
+Environmental Studies	1531	0.830
+Psychiatry	1358	0.736
+Music	1314	0.713
+Social Work	1279	0.694
+Psychology Applied	1263	0.685
+Engineering Multidisciplinary	1259	0.683
+History Philosophy Of Science	1237	0.671
+Gerontology	1164	0.631
+Psychology Multidisciplinary	1112	0.603
+Religion	871	0.472
+Management	806	0.437
+Psychology Mathematical	792	0.429
+Green Sustainable Science Technology	760	0.412
+Communication	723	0.392
+Biology	696	0.377
+Ethnic Studies	696	0.377
+Geography	679	0.368
+Art	641	0.348
+Business	574	0.311
+Philosophy	564	0.306
+Law	544	0.295
+Psychology Social	531	0.288
+Theater	525	0.285
+Anthropology	450	0.244
+Social Sciences Mathematical Methods	435	0.236
+Cultural Studies	378	0.205
+Education Special	344	0.187
+Information Science Library Science	323	0.175
+Criminology Penology	293	0.159
+Family Studies	167	0.091
+Psychology Experimental	136	0.074
+Neurosciences	122	0.066
+Public Administration	12	0.007

@@ -1,0 +1,49 @@
+Web of Science 类别	记录数	48,142的百分位
+History Philosophy Of Science	35503	73.746
+Philosophy	19783	41.093
+Ethics	9651	20.047
+Multidisciplinary Sciences	2777	5.768
+Social Sciences Interdisciplinary	2266	4.707
+Logic	2150	4.466
+Sociology	2095	4.352
+Mathematics	1946	4.042
+Education Educational Research	1801	3.741
+Communication	1683	3.496
+Agriculture Multidisciplinary	1603	3.330
+Social Issues	1357	2.819
+Engineering Multidisciplinary	1356	2.817
+Political Science	1266	2.630
+History	1261	2.619
+Physics Multidisciplinary	1016	2.110
+Health Care Sciences Services	965	2.004
+Computer Science Theory Methods	947	1.967
+Mathematics Applied	913	1.896
+History Of Social Sciences	857	1.780
+Medicine Research Experimental	736	1.529
+Mathematics Interdisciplinary Applications	672	1.396
+Environmental Sciences	642	1.334
+Women S Studies	635	1.319
+Language Linguistics	581	1.207
+Architecture	573	1.190
+Information Science Library Science	460	0.956
+Literature	445	0.924
+Neurosciences	391	0.812
+Linguistics	380	0.789
+Humanities Multidisciplinary	376	0.781
+Biotechnology Applied Microbiology	375	0.779
+Genetics Heredity	375	0.779
+Social Sciences Biomedical	375	0.779
+Biology	360	0.748
+Geosciences Multidisciplinary	356	0.739
+Cultural Studies	341	0.708
+Religion	274	0.569
+Geology	219	0.455
+Computer Science Artificial Intelligence	215	0.447
+Geography	175	0.364
+Management	174	0.361
+Education Scientific Disciplines	172	0.357
+Area Studies	168	0.349
+Asian Studies	168	0.349
+Nursing	118	0.245
+Chemistry Multidisciplinary	117	0.243
+Medical Ethics	93	0.193

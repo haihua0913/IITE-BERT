@@ -1,0 +1,27 @@
+Web of Science 类别	记录数	17,783的百分位
+History Of Social Sciences	16620	93.460
+History	7163	40.280
+Economics	4665	26.233
+Education Educational Research	2717	15.279
+Business	2056	11.562
+History Philosophy Of Science	2020	11.359
+Social Sciences Interdisciplinary	1850	10.403
+Industrial Relations Labor	1572	8.840
+Family Studies	836	4.701
+Urban Studies	836	4.701
+Geography	753	4.234
+Psychiatry	526	2.958
+Architecture	487	2.739
+Philosophy	426	2.396
+Anthropology	398	2.238
+Biotechnology Applied Microbiology	375	2.109
+Genetics Heredity	375	2.109
+Social Issues	375	2.109
+Social Sciences Biomedical	375	2.109
+Law	324	1.822
+Psychology Multidisciplinary	305	1.715
+Information Science Library Science	215	1.209
+Psychology Psychoanalysis	135	0.759
+Nursing	118	0.664
+Management	88	0.495
+Sociology	8	0.045

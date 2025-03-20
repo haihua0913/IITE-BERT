@@ -1,0 +1,17 @@
+Web of Science 类别	记录数	13,874的百分位
+Medical Ethics	13874	100.000
+Ethics	12091	87.149
+Social Sciences Biomedical	8612	62.073
+Social Issues	5461	39.361
+Law	1810	13.046
+Medicine Legal	1810	13.046
+Health Care Sciences Services	893	6.436
+Biotechnology Applied Microbiology	547	3.943
+Genetics Heredity	547	3.943
+Medicine Research Experimental	547	3.943
+Public Environmental Occupational Health	397	2.861
+History Philosophy Of Science	93	0.670
+Philosophy	93	0.670
+Clinical Neurology	5	0.036
+Critical Care Medicine	5	0.036
+Information Science Library Science	1	0.007

@@ -1,0 +1,30 @@
+Web of Science 类别	记录数	60,761的百分位
+Communication	60761	100.000
+Information Science Library Science	5516	9.078
+Linguistics	4215	6.937
+Business	4186	6.889
+Sociology	3220	5.299
+Psychology Social	3209	5.281
+Political Science	3196	5.260
+Film Radio Television	3119	5.133
+Health Policy Services	2345	3.859
+Family Studies	2305	3.794
+Cultural Studies	2125	3.497
+Language Linguistics	1715	2.823
+Psychology Multidisciplinary	1256	2.067
+Telecommunications	1232	2.028
+Social Sciences Interdisciplinary	997	1.641
+Psychology Applied	984	1.619
+History Philosophy Of Science	966	1.590
+Management	901	1.483
+Women S Studies	843	1.387
+Education Educational Research	723	1.190
+Philosophy	717	1.180
+Environmental Studies	679	1.117
+Humanities Multidisciplinary	576	0.948
+Hospitality Leisure Sport Tourism	402	0.662
+Engineering Multidisciplinary	393	0.647
+Literature	337	0.555
+Ethics	261	0.430
+Economics	181	0.298
+Anthropology	69	0.114

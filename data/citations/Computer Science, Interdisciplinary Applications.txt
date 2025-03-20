@@ -1,0 +1,80 @@
+Web of Science 类别	记录数	256,186的百分位
+Computer Science Interdisciplinary Applications	250560	97.804
+Mathematical Computational Biology	32037	12.505
+Statistics Probability	31613	12.340
+Computer Science Artificial Intelligence	30539	11.921
+Biochemical Research Methods	22246	8.684
+Engineering Biomedical	20369	7.951
+Physics Mathematical	17746	6.927
+Engineering Industrial	17308	6.756
+Computer Science Information Systems	17132	6.687
+Engineering Electrical Electronic	16879	6.589
+Medical Informatics	16540	6.456
+Biotechnology Applied Microbiology	15976	6.236
+Computer Science Software Engineering	15466	6.037
+Chemistry Multidisciplinary	14776	5.768
+Mathematics Interdisciplinary Applications	14710	5.742
+Mechanics	12407	4.843
+Computer Science Theory Methods	11954	4.666
+Mathematics Applied	11878	4.636
+Operations Research Management Science	10785	4.210
+Computer Science Hardware Architecture	10749	4.196
+Information Science Library Science	10196	3.980
+Engineering Multidisciplinary	9981	3.896
+Biochemistry Molecular Biology	9445	3.687
+Automation Control Systems	9073	3.542
+Geosciences Multidisciplinary	8800	3.435
+Engineering Civil	7730	3.017
+Chemistry Medicinal	7539	2.943
+Biology	6844	2.671
+Biophysics	6731	2.627
+Radiology Nuclear Medicine Medical Imaging	6467	2.524
+Imaging Science Photographic Technology	5642	2.202
+Environmental Sciences	5514	2.152
+Agriculture Multidisciplinary	5071	1.979
+Engineering Manufacturing	5059	1.975
+Engineering Environmental	4751	1.855
+Water Resources	4669	1.823
+Engineering Chemical	4534	1.770
+Chemistry Analytical	3990	1.557
+Instruments Instrumentation	3990	1.557
+Education Educational Research	3872	1.511
+Engineering Geological	3560	1.390
+Physics Fluids Plasmas	3021	1.179
+Health Care Sciences Services	2833	1.106
+Crystallography	2659	1.038
+Construction Building Technology	2485	0.970
+Robotics	1733	0.676
+Engineering Mechanical	1727	0.674
+Education Scientific Disciplines	1523	0.594
+Acoustics	1463	0.571
+Materials Science Characterization Testing	1294	0.505
+Environmental Studies	1177	0.459
+Geography	1177	0.459
+Regional Urban Planning	1177	0.459
+Transportation Science Technology	1164	0.454
+Nursing	1055	0.412
+Business	938	0.366
+Computer Science Cybernetics	915	0.357
+Social Sciences Interdisciplinary	891	0.348
+Toxicology	845	0.330
+Music	763	0.298
+Neurosciences	579	0.226
+Management	464	0.181
+Astronomy Astrophysics	463	0.181
+Pharmacology Pharmacy	436	0.170
+Language Linguistics	358	0.140
+Linguistics	358	0.140
+Social Sciences Mathematical Methods	313	0.122
+Multidisciplinary Sciences	301	0.117
+Humanities Multidisciplinary	294	0.115
+Rehabilitation	193	0.075
+Law	126	0.049
+Telecommunications	110	0.043
+Materials Science Multidisciplinary	89	0.035
+Medicine Research Experimental	53	0.021
+Immunology	34	0.013
+Psychiatry	30	0.012
+Medical Laboratory Technology	14	0.005
+Mathematics	8	0.003
+Geochemistry Geophysics	4	0.002

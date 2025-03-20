@@ -1,0 +1,33 @@
+Web of Science 类别	记录数	170,806的百分位
+Health Care Sciences Services	170806	100.000
+Health Policy Services	64530	37.780
+Medical Informatics	25646	15.015
+Public Environmental Occupational Health	25233	14.773
+Medicine General Internal	19507	11.421
+Education Scientific Disciplines	13149	7.698
+Rehabilitation	10462	6.125
+Oncology	8210	4.807
+Economics	7491	4.386
+Computer Science Information Systems	6187	3.622
+Pharmacology Pharmacy	3726	2.181
+Nursing	3373	1.975
+Clinical Neurology	3220	1.885
+Computer Science Interdisciplinary Applications	2833	1.659
+Information Science Library Science	2833	1.659
+Education Educational Research	2635	1.543
+Social Sciences Biomedical	2351	1.376
+Mathematical Computational Biology	1734	1.015
+Statistics Probability	1734	1.015
+Primary Health Care	1718	1.006
+Engineering Biomedical	1494	0.875
+Integrative Complementary Medicine	1283	0.751
+History Philosophy Of Science	965	0.565
+Ethics	893	0.523
+Medical Ethics	893	0.523
+Medicine Legal	690	0.404
+Social Issues	690	0.404
+Family Studies	504	0.295
+Psychiatry	415	0.243
+Psychology Clinical	415	0.243
+Urology Nephrology	240	0.141
+Andrology	223	0.131

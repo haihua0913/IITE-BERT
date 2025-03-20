@@ -1,0 +1,48 @@
+Web of Science 类别	记录数	92,593的百分位
+Social Sciences Interdisciplinary	92593	100.000
+Public Environmental Occupational Health	14099	15.227
+Sociology	8728	9.426
+Psychology Clinical	6673	7.207
+Ergonomics	6571	7.097
+Transportation	6571	7.097
+Social Issues	4780	5.162
+Humanities Multidisciplinary	4192	4.527
+Information Science Library Science	3957	4.274
+Management	3827	4.133
+Psychology Multidisciplinary	3026	3.268
+Social Sciences Biomedical	2802	3.026
+Political Science	2683	2.898
+Anthropology	2286	2.469
+Philosophy	1904	2.056
+Education Educational Research	1633	1.764
+Statistics Probability	1627	1.757
+International Relations	1504	1.624
+Ethnic Studies	1429	1.543
+Rehabilitation	1418	1.531
+Criminology Penology	1408	1.521
+Multidisciplinary Sciences	1383	1.494
+Area Studies	1147	1.239
+Psychology Social	1147	1.239
+History	1062	1.147
+History Of Social Sciences	1062	1.147
+Industrial Relations Labor	1062	1.147
+Women S Studies	1039	1.122
+Communication	997	1.077
+Computer Science Interdisciplinary Applications	891	0.962
+Environmental Studies	837	0.904
+Geography	804	0.868
+History Philosophy Of Science	788	0.851
+Law	528	0.570
+Health Policy Services	513	0.554
+Computer Science Artificial Intelligence	511	0.552
+Psychology Experimental	511	0.552
+Ethics	418	0.451
+Family Studies	402	0.434
+Public Administration	400	0.432
+Business	332	0.359
+Art	314	0.339
+Engineering Manufacturing	314	0.339
+Engineering Multidisciplinary	314	0.339
+Psychology Applied	243	0.262
+Cultural Studies	152	0.164
+Psychology Developmental	1	0.001

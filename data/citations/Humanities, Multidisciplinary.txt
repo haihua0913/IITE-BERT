@@ -1,0 +1,20 @@
+Web of Science 类别	记录数	11,618的百分位
+Humanities Multidisciplinary	11618	100.000
+Social Sciences Interdisciplinary	4192	36.082
+Area Studies	1858	15.992
+Linguistics	1218	10.484
+Cultural Studies	938	8.074
+Chemistry Analytical	736	6.335
+Materials Science Multidisciplinary	736	6.335
+Spectroscopy	736	6.335
+Psychology Experimental	702	6.042
+Communication	576	4.958
+History Philosophy Of Science	376	3.236
+Ethnic Studies	374	3.219
+Information Science Library Science	330	2.840
+Computer Science Interdisciplinary Applications	294	2.531
+History	230	1.980
+Management	219	1.885
+Psychology Multidisciplinary	176	1.515
+Anthropology	175	1.506
+Sociology	13	0.112

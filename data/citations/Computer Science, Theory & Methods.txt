@@ -1,0 +1,44 @@
+Web of Science 类别	记录数	188,853的百分位
+Computer Science Theory Methods	188853	100.000
+Computer Science Information Systems	41502	21.976
+Computer Science Software Engineering	40665	21.533
+Engineering Electrical Electronic	39972	21.166
+Computer Science Artificial Intelligence	34780	18.416
+Computer Science Hardware Architecture	29959	15.864
+Mathematics Applied	19430	10.288
+Computer Science Interdisciplinary Applications	11448	6.062
+Telecommunications	6094	3.227
+Statistics Probability	5895	3.121
+Mathematics	5540	2.933
+Logic	5371	2.844
+Engineering Biomedical	4709	2.493
+Medical Informatics	4242	2.246
+Operations Research Management Science	3643	1.929
+Automation Control Systems	3567	1.889
+Computer Science Cybernetics	2923	1.548
+Physics Mathematical	2475	1.311
+Physics Particles Fields	2475	1.311
+Quantum Science Technology	2475	1.311
+Imaging Science Photographic Technology	2009	1.064
+Optics	1962	1.039
+Radiology Nuclear Medicine Medical Imaging	830	0.439
+History Philosophy Of Science	746	0.395
+Ergonomics	733	0.388
+Biochemical Research Methods	596	0.316
+Mathematics Interdisciplinary Applications	506	0.268
+Instruments Instrumentation	460	0.244
+Physics Applied	460	0.244
+Neurosciences	212	0.112
+Language Linguistics	201	0.106
+Philosophy	201	0.106
+Rehabilitation	193	0.102
+Remote Sensing	146	0.077
+Information Science Library Science	142	0.075
+Biochemistry Molecular Biology	128	0.068
+Biology	79	0.042
+Immunology	76	0.040
+Business	50	0.026
+Robotics	31	0.016
+Music	26	0.014
+Education Scientific Disciplines	21	0.011
+Medical Laboratory Technology	14	0.007

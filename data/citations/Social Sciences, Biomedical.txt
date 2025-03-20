@@ -1,0 +1,32 @@
+Web of Science 类别	记录数	55,131的百分位
+Social Sciences Biomedical	55131	100.000
+Public Environmental Occupational Health	27341	49.593
+Ethics	10560	19.154
+Psychology Multidisciplinary	9784	17.747
+Medical Ethics	8501	15.420
+Social Issues	8277	15.013
+Health Policy Services	7269	13.185
+Oncology	4241	7.693
+Respiratory System	3935	7.138
+Psychology	3231	5.861
+Social Sciences Interdisciplinary	2802	5.082
+Information Science Library Science	2579	4.678
+Health Care Sciences Services	2351	4.264
+Anthropology	2316	4.201
+Sociology	2228	4.041
+Family Studies	2226	4.038
+Genetics Heredity	1821	3.303
+Medicine Legal	1789	3.245
+Demography	1578	2.862
+Behavioral Sciences	999	1.812
+Psychology Biological	999	1.812
+Nursing	809	1.467
+Reproductive Biology	584	1.059
+Obstetrics Gynecology	582	1.056
+Psychology Social	565	1.025
+Psychiatry	556	1.009
+Psychology Clinical	481	0.872
+Biotechnology Applied Microbiology	375	0.680
+History Philosophy Of Science	375	0.680
+Law	282	0.512
+Women S Studies	249	0.452

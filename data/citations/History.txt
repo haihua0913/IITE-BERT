@@ -1,0 +1,65 @@
+Web of Science 类别	记录数	82,193的百分位
+History	39056	47.517
+History Philosophy Of Science	35503	43.195
+History Of Social Sciences	16620	20.221
+Philosophy	7146	8.694
+Economics	4665	5.676
+Education Educational Research	3592	4.370
+Ethics	3414	4.154
+Area Studies	3295	4.009
+Political Science	3269	3.977
+Sociology	3029	3.685
+Anthropology	2949	3.588
+Multidisciplinary Sciences	2770	3.370
+Cultural Studies	2391	2.909
+Industrial Relations Labor	2198	2.674
+Business	2056	2.501
+Social Sciences Interdisciplinary	1850	2.251
+Agriculture Multidisciplinary	1603	1.950
+Hospitality Leisure Sport Tourism	1603	1.950
+Engineering Multidisciplinary	1356	1.650
+Ethnic Studies	1261	1.534
+International Relations	1260	1.533
+Architecture	1060	1.290
+Physics Multidisciplinary	1016	1.236
+Communication	966	1.175
+Health Care Sciences Services	965	1.174
+Family Studies	836	1.017
+Urban Studies	836	1.017
+Archaeology	792	0.964
+Geography	753	0.916
+Computer Science Theory Methods	746	0.908
+Medicine Research Experimental	736	0.895
+Environmental Studies	678	0.825
+Mathematics Interdisciplinary Applications	672	0.818
+Environmental Sciences	642	0.781
+Humanities Multidisciplinary	606	0.737
+Law	580	0.706
+Social Issues	549	0.668
+Psychiatry	526	0.640
+Women S Studies	506	0.616
+Asian Studies	438	0.533
+Religion	397	0.483
+Neurosciences	391	0.476
+Mathematics Applied	376	0.457
+Biotechnology Applied Microbiology	375	0.456
+Genetics Heredity	375	0.456
+Social Sciences Biomedical	375	0.456
+Biology	360	0.438
+Geosciences Multidisciplinary	356	0.433
+Logic	322	0.392
+Mathematics	319	0.388
+Psychology Multidisciplinary	305	0.371
+Management	262	0.319
+Geology	219	0.266
+Information Science Library Science	215	0.262
+Education Scientific Disciplines	172	0.209
+Medieval Renaissance Studies	163	0.198
+Psychology Psychoanalysis	135	0.164
+Language Linguistics	133	0.162
+Linguistics	133	0.162
+Nursing	118	0.144
+Chemistry Multidisciplinary	117	0.142
+Literature	108	0.131
+Medical Ethics	93	0.113
+Computer Science Artificial Intelligence	14	0.017

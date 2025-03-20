@@ -1,0 +1,58 @@
+Web of Science 类别	记录数	295,105的百分位
+Management	173455	58.777
+Operations Research Management Science	150515	51.004
+Business	50318	17.051
+Engineering Industrial	43898	14.875
+Engineering Electrical Electronic	21110	7.153
+Engineering Manufacturing	20521	6.954
+Computer Science Artificial Intelligence	19229	6.516
+Mathematics Applied	18634	6.314
+Economics	18244	6.182
+Psychology Applied	15509	5.255
+Computer Science Information Systems	12037	4.079
+Computer Science Interdisciplinary Applications	11249	3.812
+Automation Control Systems	10275	3.482
+Environmental Studies	8730	2.958
+Information Science Library Science	8607	2.917
+Hospitality Leisure Sport Tourism	8516	2.886
+Engineering Multidisciplinary	8462	2.867
+Transportation	6623	2.244
+Transportation Science Technology	6095	2.065
+Engineering Civil	5574	1.889
+Mathematics Interdisciplinary Applications	5108	1.731
+Industrial Relations Labor	4358	1.477
+Social Sciences Interdisciplinary	3827	1.297
+Telecommunications	3735	1.266
+Computer Science Theory Methods	3643	1.234
+Computer Science Software Engineering	3209	1.087
+Statistics Probability	2818	0.955
+Public Administration	2765	0.937
+Business Finance	2230	0.756
+Nursing	2151	0.729
+Multidisciplinary Sciences	1531	0.519
+Psychology Social	1438	0.487
+Women S Studies	1350	0.457
+Engineering Environmental	1177	0.399
+Geography	1177	0.399
+Regional Urban Planning	1177	0.399
+Computer Science Hardware Architecture	980	0.332
+Communication	901	0.305
+Education Educational Research	806	0.273
+Social Sciences Mathematical Methods	777	0.263
+Development Studies	646	0.219
+Public Environmental Occupational Health	625	0.212
+Sport Sciences	623	0.211
+Sociology	557	0.189
+Political Science	453	0.154
+Behavioral Sciences	369	0.125
+Psychology Experimental	369	0.125
+Ergonomics	325	0.110
+Green Sustainable Science Technology	281	0.095
+Humanities Multidisciplinary	219	0.074
+Ethics	174	0.059
+History Philosophy Of Science	174	0.059
+Social Issues	174	0.059
+History	88	0.030
+History Of Social Sciences	88	0.030
+Mathematics	24	0.008
+Nutrition Dietetics	16	0.005

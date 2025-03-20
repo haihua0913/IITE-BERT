@@ -1,0 +1,39 @@
+Web of Science 类别	记录数	154,760的百分位
+Geography Physical	92421	59.719
+Geography	69305	44.782
+Geosciences Multidisciplinary	61551	39.772
+Environmental Studies	20107	12.992
+Regional Urban Planning	16076	10.388
+Remote Sensing	15789	10.202
+Environmental Sciences	14317	9.251
+Ecology	10679	6.900
+Imaging Science Photographic Technology	9807	6.337
+Urban Studies	8939	5.776
+Economics	8926	5.768
+Paleontology	6620	4.278
+Computer Science Information Systems	6260	4.045
+Engineering Electrical Electronic	5549	3.586
+Transportation	2862	1.849
+Political Science	2282	1.475
+Information Science Library Science	1713	1.107
+Women S Studies	1290	0.834
+Computer Science Interdisciplinary Applications	1177	0.761
+Engineering Environmental	1177	0.761
+Operations Research Management Science	1177	0.761
+Sociology	1103	0.713
+Area Studies	1073	0.693
+Demography	1053	0.680
+Geology	1038	0.671
+Social Sciences Interdisciplinary	804	0.520
+History Of Social Sciences	753	0.487
+Forestry	748	0.483
+Education Educational Research	679	0.439
+Green Sustainable Science Technology	653	0.422
+Anthropology	572	0.370
+Meteorology Atmospheric Sciences	546	0.353
+Public Administration	536	0.346
+Cultural Studies	519	0.335
+Development Studies	428	0.277
+History	175	0.113
+History Philosophy Of Science	175	0.113
+Business	167	0.108

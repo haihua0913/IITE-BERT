@@ -1,0 +1,18 @@
+Web of Science Categories	Record Count	% of 92,434
+Geography Physical	92434	100.000
+Geosciences Multidisciplinary	61563	66.602
+Remote Sensing	15790	17.082
+Environmental Sciences	12531	13.557
+Ecology	10680	11.554
+Imaging Science Photographic Technology	9808	10.611
+Geography	6966	7.536
+Paleontology	6620	7.162
+Computer Science Information Systems	6260	6.772
+Engineering Electrical Electronic	5549	6.003
+Environmental Studies	2910	3.148
+Regional Urban Planning	2910	3.148
+Urban Studies	2910	3.148
+Information Science Library Science	1713	1.853
+Geology	1038	1.123
+Forestry	748	0.809
+Meteorology Atmospheric Sciences	546	0.591

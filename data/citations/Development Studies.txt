@@ -1,0 +1,26 @@
+Web of Science 类别	记录数	33,805的百分位
+Development Studies	33805	100.000
+Economics	10182	30.120
+Regional Urban Planning	8447	24.987
+Environmental Studies	4002	11.838
+Urban Studies	2822	8.348
+Area Studies	1515	4.482
+Public Administration	1470	4.348
+Sociology	1431	4.233
+Business	1249	3.695
+Green Sustainable Science Technology	1010	2.988
+Social Issues	974	2.881
+Social Work	974	2.881
+Anthropology	858	2.538
+Management	646	1.911
+Business Finance	559	1.654
+Geography	428	1.266
+Information Science Library Science	398	1.177
+International Relations	369	1.092
+Political Science	369	1.092
+Agricultural Economics Policy	45	0.133
+Biochemical Research Methods	18	0.053
+Biochemistry Molecular Biology	18	0.053
+Cell Biology	18	0.053
+Medicine Research Experimental	18	0.053
+Social Sciences Mathematical Methods	11	0.033

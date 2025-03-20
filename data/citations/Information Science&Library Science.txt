@@ -1,0 +1,29 @@
+Web of Science 类别	记录数	79,937的百分位
+Information Science Library Science	79937	100.000
+Computer Science Information Systems	20129	25.181
+Computer Science Interdisciplinary Applications	10198	12.758
+Management	8895	11.128
+Communication	5517	6.902
+Social Sciences Interdisciplinary	3957	4.950
+Health Care Sciences Services	2834	3.545
+Medical Informatics	2834	3.545
+Public Environmental Occupational Health	2579	3.226
+Social Sciences Biomedical	2579	3.226
+Geography	1713	2.143
+Geography Physical	1713	2.143
+Telecommunications	1232	1.541
+Multidisciplinary Sciences	1075	1.345
+Education Educational Research	443	0.554
+Ethics	439	0.549
+Philosophy	438	0.548
+Law	420	0.525
+Development Studies	399	0.499
+Humanities Multidisciplinary	330	0.413
+History Of Social Sciences	297	0.372
+History	193	0.241
+Computer Science Theory Methods	142	0.178
+History Philosophy Of Science	104	0.130
+Cultural Studies	18	0.023
+Folklore	18	0.023
+Mathematics	1	0.001
+Medical Ethics	1	0.001
